@@ -8,8 +8,8 @@ export default function Home() {
 <div className='mt-[10rem] font-semibold transform translate-x-0 translate-y-0 motion-safe:animate-pulse rounded w-32 text-3xl text-left    ' id='main_home' >
 
         <h3 className='text-yellow-400'>HELLO!</h3>
-        <p>I AM <span className='text-yellow-400'>ZAHRA WASEEM</span></p>
-        <p>A WEB DEVELOPER</p>
+        <p>I AM <span className='text-yellow-400'>ZAHRA WASEEM,</span></p>
+        <p className='text-white'>A WEB DEVELOPER</p>
 </div>
 
         <div >
