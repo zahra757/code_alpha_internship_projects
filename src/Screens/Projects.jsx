@@ -28,10 +28,10 @@ export default function Projects() {
 
         {/* Second Column: IMAGE GALLERY & TODO LIST */}
         <div className="flex flex-col items-center w-full sm:w-[45%] lg:w-[30%]">
-          <p className="mb-4">IMAGE GALLERY</p>
+          <p className="mb-[4rem]">IMAGE GALLERY</p>
           <img src={image_gallery} className="w-full max-w-[25rem] rounded-lg mb-6" alt="Image Gallery" />
 
-          <p className="mt-10 mb-4">TODO LIST</p>
+          <p className="mt-10 mb-[4rem]">TODO LIST</p>
           <img src={todo} className="w-full max-w-[15rem] h-auto rounded-lg" alt="Todo List" />
         </div>
       </div>
